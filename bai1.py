@@ -7,4 +7,4 @@ if m in thang_31:
 elif m == 2:
     print("Tháng 2 có 28 hoặc 29 ngày.")
 else:
-    print(f"Tháng {m} có 30 ngày.")
+    print(f"Tháng {m} có 30 ngày."
